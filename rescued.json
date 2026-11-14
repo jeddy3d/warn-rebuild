@@ -1,0 +1,154 @@
+[
+ {
+  "state": "MD",
+  "error": "KeyError('01/01/2027 - 01/29/2027')",
+  "company": "Americold Logistics, LLC",
+  "jobs": 20,
+  "notice_date": "2026-11-02",
+  "effective_date": "2027-01-01"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('69 (0)')",
+  "company": "PPD d/b/a Thermo Fisher Scientific",
+  "jobs": 69,
+  "notice_date": "2026-09-30",
+  "effective_date": "2026-09-28"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('71 (+2)')",
+  "company": "PPD d/b/a Thermo Fisher Scientific",
+  "jobs": 71,
+  "notice_date": "2026-09-30",
+  "effective_date": "2026-09-28"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('77 (+77)')",
+  "company": "Sparhawk Trucking Inc. / Sparhawk Truck and Trailer Inc.<br/></a><a><em style=\"font-size:80%; text-decoration:none !important; color:#000\">* Received from the Ch 11 Trustee but notice is addressed to employees. DWD emailed Trustee requesting more details.</em>",
+  "jobs": 77,
+  "notice_date": "2026-07-30",
+  "effective_date": "None"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('74 (-3)')",
+  "company": "Sparhawk Trucking Inc. / Sparhawk Truck and Trailer Inc.<br/></a><a><em style=\"font-size:80%; text-decoration:none !important; color:#000\">* Received from the Ch 11 Trustee but notice is addressed to employees. DWD emailed Trustee requesting more details.</em>",
+  "jobs": 74,
+  "notice_date": "2026-09-08",
+  "effective_date": "2026-09-08"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('24 (-33)')",
+  "company": "Henkel US Operations Corporation",
+  "jobs": 24,
+  "notice_date": "2026-09-24",
+  "effective_date": "2026-06-20"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('3 (-22)')",
+  "company": "Unity Point Health",
+  "jobs": 3,
+  "notice_date": "2026-05-20",
+  "effective_date": "2026-08-07"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('54 (0)')",
+  "company": "Midwest Energy Resources Co.",
+  "jobs": 54,
+  "notice_date": "2026-11-04",
+  "effective_date": "2026-06-30"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('TBD (0)')",
+  "company": "Ahlstrom Mosinee LLC",
+  "jobs": null,
+  "notice_date": "2026-03-04",
+  "effective_date": "2026-06-30"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('126 (+126)')",
+  "company": "Ahlstrom Mosinee LLC",
+  "jobs": 126,
+  "notice_date": "2026-04-29",
+  "effective_date": "2026-06-30"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('69 (0)')",
+  "company": "PPD d/b/a Thermo Fisher Scientific",
+  "jobs": 69,
+  "notice_date": "2026-09-30",
+  "effective_date": "2026-09-28"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('71 (+2)')",
+  "company": "PPD d/b/a Thermo Fisher Scientific",
+  "jobs": 71,
+  "notice_date": "2026-09-30",
+  "effective_date": "2026-09-28"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('77 (+77)')",
+  "company": "Sparhawk Trucking Inc. / Sparhawk Truck and Trailer Inc.<br/></a><a><em style=\"font-size:80%; text-decoration:none !important; color:#000\">* Received from the Ch 11 Trustee but notice is addressed to employees. DWD emailed Trustee requesting more details.</em>",
+  "jobs": 77,
+  "notice_date": "2026-07-30",
+  "effective_date": "None"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('74 (-3)')",
+  "company": "Sparhawk Trucking Inc. / Sparhawk Truck and Trailer Inc.<br/></a><a><em style=\"font-size:80%; text-decoration:none !important; color:#000\">* Received from the Ch 11 Trustee but notice is addressed to employees. DWD emailed Trustee requesting more details.</em>",
+  "jobs": 74,
+  "notice_date": "2026-09-08",
+  "effective_date": "2026-09-08"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('24 (-33)')",
+  "company": "Henkel US Operations Corporation",
+  "jobs": 24,
+  "notice_date": "2026-09-24",
+  "effective_date": "2026-06-20"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('3 (-22)')",
+  "company": "Unity Point Health",
+  "jobs": 3,
+  "notice_date": "2026-05-20",
+  "effective_date": "2026-08-07"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('54 (0)')",
+  "company": "Midwest Energy Resources Co.",
+  "jobs": 54,
+  "notice_date": "2026-11-04",
+  "effective_date": "2026-06-30"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('TBD (0)')",
+  "company": "Ahlstrom Mosinee LLC",
+  "jobs": null,
+  "notice_date": "2026-03-04",
+  "effective_date": "2026-06-30"
+ },
+ {
+  "state": "WI",
+  "error": "KeyError('126 (+126)')",
+  "company": "Ahlstrom Mosinee LLC",
+  "jobs": 126,
+  "notice_date": "2026-04-29",
+  "effective_date": "2026-06-30"
+ }
+]
