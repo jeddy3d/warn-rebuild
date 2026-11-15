@@ -1,0 +1,40 @@
+# Heritage WARN rebuild (Fable WARN audit 4A). Public WARN data only; no secrets.
+# Rebuilds the WARN combined file after upstream's three daily export runs and commits
+# integrated.csv, rescued.json and manifest.json to the `warn-rebuild-data` branch.
+# Upstream's state exports run at 14:22, 19:22 and 23:22 UTC (~5 min). Run after each:
+# 14:40, 19:40, 23:40 UTC = 06:40, 11:40, 15:40 PT (standard time). Scheduled runs can start
+# late; the engine checks the manifest hourly, so a late build is still picked up within the hour.
+name: warn-rebuild
+on:
+  schedule:
+    - cron: "40 14 * * *"
+    - cron: "40 19 * * *"
+    - cron: "40 23 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: warn-rebuild
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with: {ref: warn-rebuild-data, path: data}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r tools/warn_rebuild/requirements.txt
+      - name: Rebuild (fails without publishing if any guard trips)
+        run: |
+          python tools/warn_rebuild/rebuild.py --out out \
+            --previous data/integrated.csv --previous-manifest data/manifest.json
+      - name: Publish
+        run: |
+          cp out/integrated.csv out/rescued.json out/manifest.json data/
+          cd data
+          git config user.name warn-rebuild-bot
+          git config user.email warn-rebuild-bot@users.noreply.github.com
+          git add integrated.csv rescued.json manifest.json
+          git diff --cached --quiet || git commit -m "warn rebuild $(date -u +%FT%TZ)"
+          git push origin warn-rebuild-data
