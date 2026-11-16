@@ -8,6 +8,14 @@
   "effective_date": "2027-01-01"
  },
  {
+  "state": "NJ",
+  "error": "KeyError('2/14/27 - 2/28/27')",
+  "company": "Barclays Services Corporation",
+  "jobs": 75,
+  "notice_date": "None",
+  "effective_date": "2027-02-14"
+ },
+ {
   "state": "WI",
   "error": "KeyError('69 (0)')",
   "company": "PPD d/b/a Thermo Fisher Scientific",
