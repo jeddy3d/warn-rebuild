@@ -1,5 +1,21 @@
 [
  {
+  "state": "CA",
+  "error": "KeyError('11/10/2001')",
+  "company": "Ryder - 980 E Louise",
+  "jobs": 73,
+  "notice_date": "2001-11-10",
+  "effective_date": "2027-01-10"
+ },
+ {
+  "state": "CA",
+  "error": "KeyError('11/10/2001')",
+  "company": "Ryder - 500 E. Louise Ave.",
+  "jobs": 10,
+  "notice_date": "2001-11-10",
+  "effective_date": "2026-01-10"
+ },
+ {
   "state": "MD",
   "error": "KeyError('01/01/2027 - 01/29/2027')",
   "company": "Americold Logistics, LLC",
@@ -14,6 +30,22 @@
   "jobs": 75,
   "notice_date": "None",
   "effective_date": "2027-02-14"
+ },
+ {
+  "state": "NJ",
+  "error": "KeyError('2/16/27 - 6/30/27')",
+  "company": "Vonage Holdings",
+  "jobs": 84,
+  "notice_date": "None",
+  "effective_date": "2027-02-16"
+ },
+ {
+  "state": "NJ",
+  "error": "KeyError('12/16/26 - 2/15/27')",
+  "company": "Reovery Centers of America",
+  "jobs": 73,
+  "notice_date": "None",
+  "effective_date": "2026-12-16"
  },
  {
   "state": "WI",
