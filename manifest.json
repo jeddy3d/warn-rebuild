@@ -1,11 +1,11 @@
 {
- "built_at": "2026-11-18T01:50:42.493946+00:00",
+ "built_at": "2026-11-18T04:44:03.278426+00:00",
  "transformer_version": "1.3.423",
- "row_count": 90277,
- "previous_row_count": 90271,
- "added": 6,
+ "row_count": 90278,
+ "previous_row_count": 90277,
+ "added": 1,
  "rescued": 24,
- "sha256": "0b878dcb3d5ae2f97fe36acb2fce4563a51c877ea1dc4ef2639bb60b4a291474",
+ "sha256": "7283e75f6cdb19b335c16640362fbef15f5bd605d0977ec4234fdba643b3f419",
  "states": {
   "AK": {
    "export_commit": "3cbd754fc7ab6c4dc8adf5c47361cd177baada0c",
