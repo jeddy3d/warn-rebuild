@@ -1,11 +1,11 @@
 {
- "built_at": "2026-11-18T04:44:03.278426+00:00",
+ "built_at": "2026-11-18T22:18:03.575194+00:00",
  "transformer_version": "1.3.423",
- "row_count": 90278,
- "previous_row_count": 90277,
- "added": 1,
+ "row_count": 90290,
+ "previous_row_count": 90278,
+ "added": 12,
  "rescued": 24,
- "sha256": "7283e75f6cdb19b335c16640362fbef15f5bd605d0977ec4234fdba643b3f419",
+ "sha256": "431b29b3a20dc0bc9667a93055d80415b15038a07383f25839604d5f30bba87c",
  "states": {
   "AK": {
    "export_commit": "3cbd754fc7ab6c4dc8adf5c47361cd177baada0c",
@@ -22,10 +22,10 @@
    "rescued": 0
   },
   "AZ": {
-   "export_commit": "726e723adaf5d725e3f0ad1766be7bab21352471",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/726e723adaf5d725e3f0ad1766be7bab21352471/data/warn-scraper/exports/az.csv",
+   "export_commit": "26abf8a23d6afddbb7496d3e522e1c8f878e53a9",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/26abf8a23d6afddbb7496d3e522e1c8f878e53a9/data/warn-scraper/exports/az.csv",
    "used": "current",
-   "rows": 658,
+   "rows": 683,
    "rescued": 0
   },
   "CA": {
@@ -36,8 +36,8 @@
    "rescued": 2
   },
   "CO": {
-   "export_commit": "457dd665fb5bfea378ce1a4072ef6fcb513d6404",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/457dd665fb5bfea378ce1a4072ef6fcb513d6404/data/warn-scraper/exports/co.csv",
+   "export_commit": "2246df40dc2860157199b56e26138e6a1c940cb2",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/2246df40dc2860157199b56e26138e6a1c940cb2/data/warn-scraper/exports/co.csv",
    "used": "current",
    "rows": 877,
    "rescued": 0
@@ -50,15 +50,15 @@
    "rescued": 0
   },
   "DC": {
-   "export_commit": "aeb5c5b30296e2f99473559723613a4f263d1637",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/aeb5c5b30296e2f99473559723613a4f263d1637/data/warn-scraper/exports/dc.csv",
+   "export_commit": "dcf5c716ec0f369e450a8f25a54fe8eff66a2c1b",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/dcf5c716ec0f369e450a8f25a54fe8eff66a2c1b/data/warn-scraper/exports/dc.csv",
    "used": "current",
    "rows": 149,
    "rescued": 0
   },
   "DE": {
-   "export_commit": "e7539ee627c6bebd116e887927c4dc564af7eac4",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/e7539ee627c6bebd116e887927c4dc564af7eac4/data/warn-scraper/exports/de.csv",
+   "export_commit": "cec486d1f5528167c4cd46f0624ea620a910e88c",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/cec486d1f5528167c4cd46f0624ea620a910e88c/data/warn-scraper/exports/de.csv",
    "used": "current",
    "rows": 111,
    "rescued": 0
@@ -85,8 +85,8 @@
    "rescued": 0
   },
   "IA": {
-   "export_commit": "eccf0e284dc695b4cc1c7f8014fc43fbead635de",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/eccf0e284dc695b4cc1c7f8014fc43fbead635de/data/warn-scraper/exports/ia.csv",
+   "export_commit": "d2ff12a5c2eec08000a54eb64f7021bec0822c3c",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/d2ff12a5c2eec08000a54eb64f7021bec0822c3c/data/warn-scraper/exports/ia.csv",
    "used": "current",
    "rows": 446,
    "rescued": 0
@@ -99,8 +99,8 @@
    "rescued": 0
   },
   "IL": {
-   "export_commit": "03dd4a44caff4d972fdcd80676013ae79d8adba6",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/03dd4a44caff4d972fdcd80676013ae79d8adba6/data/warn-scraper/exports/il.csv",
+   "export_commit": "873fe37d5cde2c3dafdb8632a003261b33c4d3c0",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/873fe37d5cde2c3dafdb8632a003261b33c4d3c0/data/warn-scraper/exports/il.csv",
    "used": "current",
    "rows": 4902,
    "rescued": 0
@@ -113,10 +113,10 @@
    "rescued": 0
   },
   "KS": {
-   "export_commit": "d4deaf9801d93443a6f48ef5f103b0832a7d1bc9",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/d4deaf9801d93443a6f48ef5f103b0832a7d1bc9/data/warn-scraper/exports/ks.csv",
+   "export_commit": "819792368ac7344687c88ceb1bacaa17bf4aa56a",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/819792368ac7344687c88ceb1bacaa17bf4aa56a/data/warn-scraper/exports/ks.csv",
    "used": "current",
-   "rows": 2141,
+   "rows": 2128,
    "rescued": 0
   },
   "KY": {
@@ -127,50 +127,50 @@
    "rescued": 0
   },
   "LA": {
-   "export_commit": "bb8410b7339c0b95fb14c56207764c70a097adcb",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/bb8410b7339c0b95fb14c56207764c70a097adcb/data/warn-scraper/exports/la.csv",
+   "export_commit": "af3db1c8b49c02e5ae1da365503d098b8fd91f17",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/af3db1c8b49c02e5ae1da365503d098b8fd91f17/data/warn-scraper/exports/la.csv",
    "used": "current",
-   "rows": 42,
+   "rows": 45,
    "rescued": 0
   },
   "MA": {
-   "export_commit": "62556101853c91777b94bfd3a1c0a6075fdb3aa8",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/62556101853c91777b94bfd3a1c0a6075fdb3aa8/data/warn-scraper/exports/ma.csv",
+   "export_commit": "915603a311cd40024f5aa0d42e95039dfd8974a8",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/915603a311cd40024f5aa0d42e95039dfd8974a8/data/warn-scraper/exports/ma.csv",
    "used": "current",
    "rows": 398,
    "rescued": 0
   },
   "MD": {
-   "export_commit": "8f9f3581359c7e1e0cd74db8314fc056f799690b",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/8f9f3581359c7e1e0cd74db8314fc056f799690b/data/warn-scraper/exports/md.csv",
+   "export_commit": "0a52fa1f96199a77e398bc78eed2e7ea34d94e98",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/0a52fa1f96199a77e398bc78eed2e7ea34d94e98/data/warn-scraper/exports/md.csv",
    "used": "current",
    "rows": 1446,
    "rescued": 1
   },
   "ME": {
-   "export_commit": "ff6084d2ae84224e832bf680153f779280bf846f",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/ff6084d2ae84224e832bf680153f779280bf846f/data/warn-scraper/exports/me.csv",
+   "export_commit": "a31cbc5fa3868e63619ad7aa8f8d4f2fdd1c8e10",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/a31cbc5fa3868e63619ad7aa8f8d4f2fdd1c8e10/data/warn-scraper/exports/me.csv",
    "used": "current",
-   "rows": 417,
+   "rows": 410,
    "rescued": 0
   },
   "MI": {
-   "export_commit": "b973d744ae7a98d9d06249aa0931da717921dd41",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/b973d744ae7a98d9d06249aa0931da717921dd41/data/warn-scraper/exports/mi.csv",
+   "export_commit": "2bc9fce415c87c570dd08a3bbffa2de498048c4b",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/2bc9fce415c87c570dd08a3bbffa2de498048c4b/data/warn-scraper/exports/mi.csv",
    "used": "current",
    "rows": 130,
    "rescued": 0
   },
   "MO": {
-   "export_commit": "0860134094f74e6caf5196319d252deab65c0ed8",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/0860134094f74e6caf5196319d252deab65c0ed8/data/warn-scraper/exports/mo.csv",
+   "export_commit": "ca60a11c484e49fa541689f8475184f74eeb0ee8",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/ca60a11c484e49fa541689f8475184f74eeb0ee8/data/warn-scraper/exports/mo.csv",
    "used": "current",
    "rows": 487,
    "rescued": 0
   },
   "MS": {
-   "export_commit": "ec214a4d6ae33ff93d1ea5e69ebb07f7eeb2b40c",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/ec214a4d6ae33ff93d1ea5e69ebb07f7eeb2b40c/data/warn-scraper/exports/ms.csv",
+   "export_commit": "3353ff3e645d9bf7d98969d93555e00f1a179be1",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/3353ff3e645d9bf7d98969d93555e00f1a179be1/data/warn-scraper/exports/ms.csv",
    "used": "current",
    "rows": 150,
    "rescued": 0
@@ -190,8 +190,8 @@
    "rescued": 0
   },
   "NE": {
-   "export_commit": "a7c46bc5211575b0e4fb3bbbcc3d5c656913c08a",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/a7c46bc5211575b0e4fb3bbbcc3d5c656913c08a/data/warn-scraper/exports/ne.csv",
+   "export_commit": "5e6eb0bd820070a9a7b3f71360884ae2786cafb2",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/5e6eb0bd820070a9a7b3f71360884ae2786cafb2/data/warn-scraper/exports/ne.csv",
    "used": "current",
    "rows": 993,
    "rescued": 0
@@ -204,22 +204,22 @@
    "rescued": 3
   },
   "NM": {
-   "export_commit": "02fc50bf2602cd3851e92a391af5297d3ec8ed09",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/02fc50bf2602cd3851e92a391af5297d3ec8ed09/data/warn-scraper/exports/nm.csv",
+   "export_commit": "44d1077a21c6276ce3bae66104f5ff3ac38c9260",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/44d1077a21c6276ce3bae66104f5ff3ac38c9260/data/warn-scraper/exports/nm.csv",
    "used": "current",
    "rows": 0,
    "rescued": 0
   },
   "NY": {
-   "export_commit": "7cd0752f9467c0b59d899f3d26a837a93c207653",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/7cd0752f9467c0b59d899f3d26a837a93c207653/data/warn-scraper/exports/ny.csv",
+   "export_commit": "075f7d6c9af3b2fc9ee4d89230078a47f491ac25",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/075f7d6c9af3b2fc9ee4d89230078a47f491ac25/data/warn-scraper/exports/ny.csv",
    "used": "current",
-   "rows": 241,
+   "rows": 242,
    "rescued": 0
   },
   "OH": {
-   "export_commit": "3816fed86b2605da9f9b9d6ccef1348eb35550bc",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/3816fed86b2605da9f9b9d6ccef1348eb35550bc/data/warn-scraper/exports/oh.csv",
+   "export_commit": "cbe32e671226fe90244360214a22cbc4da133818",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/cbe32e671226fe90244360214a22cbc4da133818/data/warn-scraper/exports/oh.csv",
    "used": "current",
    "rows": 820,
    "rescued": 0
@@ -232,17 +232,17 @@
    "rescued": 0
   },
   "OR": {
-   "export_commit": "4f7962b3d5b0df5364f8468dcafedb47e0d3ceca",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/4f7962b3d5b0df5364f8468dcafedb47e0d3ceca/data/warn-scraper/exports/or.csv",
+   "export_commit": "f84542b998ddc4c3a5fae94cbab2fb8a569b1141",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/f84542b998ddc4c3a5fae94cbab2fb8a569b1141/data/warn-scraper/exports/or.csv",
    "used": "current",
    "rows": 1384,
    "rescued": 0
   },
   "PA": {
-   "export_commit": "31f4875a49dcc7158637f3c1a409a628de7324df",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/31f4875a49dcc7158637f3c1a409a628de7324df/data/warn-scraper/exports/pa.csv",
+   "export_commit": "78cfbf1723e2aa741646af9005936f12782b0a1d",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/78cfbf1723e2aa741646af9005936f12782b0a1d/data/warn-scraper/exports/pa.csv",
    "used": "current",
-   "rows": 319,
+   "rows": 320,
    "rescued": 0
   },
   "RI": {
@@ -253,8 +253,8 @@
    "rescued": 0
   },
   "SC": {
-   "export_commit": "2157d287b8b243da4fb7edcd34460c3a795a3ec9",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/2157d287b8b243da4fb7edcd34460c3a795a3ec9/data/warn-scraper/exports/sc.csv",
+   "export_commit": "bf449c4891b42312b033de91c3321a70ee2d4459",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/bf449c4891b42312b033de91c3321a70ee2d4459/data/warn-scraper/exports/sc.csv",
    "used": "current",
    "rows": 613,
    "rescued": 0
@@ -267,8 +267,8 @@
    "rescued": 0
   },
   "TN": {
-   "export_commit": "e12903dd097f47432c54d82d364e7a061a8a4540",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/e12903dd097f47432c54d82d364e7a061a8a4540/data/warn-scraper/exports/tn.csv",
+   "export_commit": "6b8116b87879ba81c13955932c0dfeb094eb94d4",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/6b8116b87879ba81c13955932c0dfeb094eb94d4/data/warn-scraper/exports/tn.csv",
    "used": "current",
    "rows": 1068,
    "rescued": 0
@@ -288,31 +288,31 @@
    "rescued": 0
   },
   "VA": {
-   "export_commit": "0684e57ba356d148dcc77de5e3ba71a6e4a08e22",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/0684e57ba356d148dcc77de5e3ba71a6e4a08e22/data/warn-scraper/exports/va.csv",
+   "export_commit": "673583da28cad86d41767f9e55c6deef891ad3af",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/673583da28cad86d41767f9e55c6deef891ad3af/data/warn-scraper/exports/va.csv",
    "used": "current",
    "rows": 1140,
    "rescued": 0
   },
   "VT": {
-   "export_commit": "6635787a9e7fac65812fbdb8b4a5e32a02ab6a70",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/6635787a9e7fac65812fbdb8b4a5e32a02ab6a70/data/warn-scraper/exports/vt.csv",
+   "export_commit": "a27d4e26ba6f98d5d50e89863c72525499237759",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/a27d4e26ba6f98d5d50e89863c72525499237759/data/warn-scraper/exports/vt.csv",
    "used": "current",
    "rows": 325,
    "rescued": 0
   },
   "WA": {
-   "export_commit": "83ba53ce4710ef1f78b9b680ad3dc383b4f75291",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/83ba53ce4710ef1f78b9b680ad3dc383b4f75291/data/warn-scraper/exports/wa.csv",
+   "export_commit": "b5f93155c32a8eaa3ace57dc36706a23bc90e2fb",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/b5f93155c32a8eaa3ace57dc36706a23bc90e2fb/data/warn-scraper/exports/wa.csv",
    "used": "current",
    "rows": 1553,
    "rescued": 0
   },
   "WI": {
-   "export_commit": "291e163ad14ff66666492cd14962a96474993e3d",
-   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/291e163ad14ff66666492cd14962a96474993e3d/data/warn-scraper/exports/wi.csv",
+   "export_commit": "a4a3bc89698f297c7136e20ec3cd6a900b0da250",
+   "export_url": "https://raw.githubusercontent.com/biglocalnews/warn-github-flow/a4a3bc89698f297c7136e20ec3cd6a900b0da250/data/warn-scraper/exports/wi.csv",
    "used": "current",
-   "rows": 1281,
+   "rows": 1283,
    "rescued": 18,
    "wi_normalized": 40
   }
