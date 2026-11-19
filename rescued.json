@@ -1,21 +1,5 @@
 [
  {
-  "state": "CA",
-  "error": "KeyError('11/10/2001')",
-  "company": "Ryder - 980 E Louise",
-  "jobs": 73,
-  "notice_date": "2001-11-10",
-  "effective_date": "2027-01-10"
- },
- {
-  "state": "CA",
-  "error": "KeyError('11/10/2001')",
-  "company": "Ryder - 500 E. Louise Ave.",
-  "jobs": 10,
-  "notice_date": "2001-11-10",
-  "effective_date": "2026-01-10"
- },
- {
   "state": "MD",
   "error": "KeyError('01/01/2027 - 01/29/2027')",
   "company": "Americold Logistics, LLC",
@@ -46,6 +30,22 @@
   "jobs": 73,
   "notice_date": "None",
   "effective_date": "2026-12-16"
+ },
+ {
+  "state": "NJ",
+  "error": "KeyError('2/16/27 - 2/17/27')",
+  "company": "RWJ Barnabas Health, Inc",
+  "jobs": 106,
+  "notice_date": "None",
+  "effective_date": "2027-02-16"
+ },
+ {
+  "state": "NJ",
+  "error": "KeyError('2/17/27 - 2/19/27')",
+  "company": "Novo Nordisk",
+  "jobs": 215,
+  "notice_date": "None",
+  "effective_date": "2027-02-17"
  },
  {
   "state": "WI",
